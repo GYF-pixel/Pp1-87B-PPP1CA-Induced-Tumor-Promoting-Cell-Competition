@@ -18,7 +18,7 @@ FACS-sorted GFP+ and GFP− cells were isolated from *WT*//*WT*, *WT*//*Ras*, an
 Genetically engineered human PDAC cell lines were subcutaneously implanted, and GFP+ and mCherry+ cancer cells were harvested via FACS for bulk RNA-seq analysis.
 
 ### 4. Human cancer cell PDX scRNA-seq
-
+Genetically engineered human PDAC cell lines were subcutaneously implanted, and whole tummors were harvested for scRNA-seq analysis.
 
 ## **For more information, please read our paper:**  
 The sequencing data can be downloaded freely, and codes developed for this study are provided.
